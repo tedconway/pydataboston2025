@@ -1,4 +1,4 @@
-# pydataboston2025emoji
+# pydataboston2025
 **PyData Boston 2025 Presentation**<br>
 Fun With Python and Emoji: What Might Adding Pictures to Text Programming Languages Look Like?
 
