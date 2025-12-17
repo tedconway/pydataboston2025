@@ -10,3 +10,5 @@ We all mix pictures, emojis and text freely in our communications. So, why not i
 **2. demo4pydata2025.ipynb** - Notebook with code for demo (IPython input transorrmer, emoji-to-text dictionary, Python text+emoji demo program)  
 **3. cars.csv** - Test data for simple SQL demo  
 **4. XtraLightningTalkPythonInExcel.pdf** - Slides from an unrelated 5-minute Lightning Talk on Python in Excel
+
+**Note:** A SAS-specific version of this presentation was given at WUSS 2025 ([slides, paper](https://github.com/tedconway/wuss2025)). That implementation used similar Python-based emoji preprocessor code and the SASPy open-source Python package.
