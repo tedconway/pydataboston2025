@@ -1,5 +1,5 @@
 # pydataboston2025
-**[PyData Boston 2025 Presentation](https://pretalx.com/pydata-boston-2025/talk/review/QSPBDKWQ3Y9MZJLUBCJCQHQBHUTKENSE)**<br>
+**[PyData Boston 2025 Presentation](https://pretalx.com/pydata-boston-2025/talk/review/QSPBDKWQ3Y9MZJLUBCJCQHQBHUTKENSE)** ([YouTube](https://www.youtube.com/watch?v=QfpUQYsE8bA))<br>
 Fun With Python and Emoji: What Might Adding Pictures to Text Programming Languages Look Like?
 
 **Abstract**<br>
