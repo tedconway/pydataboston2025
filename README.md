@@ -1,4 +1,4 @@
-# pydataboston2025
+#  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tedconway/pydataboston2025/blob/main/demo4pydata2025.ipynb)<br>pydataboston2025
 **[PyData Boston 2025 Presentation](https://pretalx.com/pydata-boston-2025/talk/review/QSPBDKWQ3Y9MZJLUBCJCQHQBHUTKENSE)** ([YouTube](https://www.youtube.com/watch?v=QfpUQYsE8bA))<br>
 Fun With Python and Emoji: What Might Adding Pictures to Text Programming Languages Look Like?
 
@@ -7,7 +7,7 @@ We all mix pictures, emojis and text freely in our communications. So, why not i
 
 **Files**  
 **1. PYDATA2025.pdf** - Presentation Slides  
-**2. demo4pydata2025.ipynb** - Notebook with code for demo (IPython input transorrmer, emoji-to-text dictionary, Python text+emoji demo program)  
+**2. demo4pydata2025.ipynb** - Notebook with code for demo (IPython input transorrmer, emoji-to-text dictionary, Python text+emoji demo program)    
 **3. cars.csv** - Test data for simple SQL demo  
 **4. XtraLightningTalkPythonInExcel.pdf** - Slides from an unrelated 5-minute Lightning Talk on Python in Excel
 
